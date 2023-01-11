@@ -53,8 +53,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-
         btnOk.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
