@@ -10,6 +10,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Chapter04" />
+            <option value="$PROJECT_DIR$/Chapter04/project4_2" />
+            <option value="$PROJECT_DIR$/Ex_230109" />
+            <option value="$PROJECT_DIR$/Project5_1" />
+            <option value="$PROJECT_DIR$/Project5_1/poject5_3" />
+            <option value="$PROJECT_DIR$/Project5_1/project5_2_tablc_calc" />
+            <option value="$PROJECT_DIR$/Project5_1/project5_4_Linear" />
+            <option value="$PROJECT_DIR$/Project5_1/project5_4_relative" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/ex04_calc" />
             <option value="$PROJECT_DIR$/ex05_1_2" />

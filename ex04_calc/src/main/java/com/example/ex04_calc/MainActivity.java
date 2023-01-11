@@ -2,6 +2,7 @@ package com.example.ex04_calc;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.MotionEvent;
 import android.view.View;
@@ -131,6 +132,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         btn3.setOnTouchListener(new View.OnTouchListener() {
+            @SuppressLint("ClickableViewAccessibility")
             @Override
             public boolean onTouch(View view, MotionEvent motionEvent) {
                 String str1 = edt1.getText().toString();
